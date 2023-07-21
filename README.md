@@ -8,3 +8,6 @@
   - [Sleep](Humans/Physiology/Sleep.md)
   - [Nonsteroidal Anti-inflammatory Drugs](Humans/Physiology/Nonsteroidal%20Anti-inflammatory%20Drugs.md)
 - [Brain](Humans/Brain/README.md)
+- [Clothing](Humans/Clothing/README.md)
+  - [Legwear](Humans/Clothing/Legwear/README.md)
+    - [Stockings](Humans/Clothing/Legwear/Stockings.md)
