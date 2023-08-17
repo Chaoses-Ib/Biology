@@ -1,10 +1,12 @@
 # [Biology](Biology.md)
 ## Humans
 - [Physiology](Humans/Physiology/README.md)
-  - Respiration
-    - [Pharyngitis](Humans/Physiology/Respiration/Pharyngitis.md)
+  - [Respiratory System](Humans/Physiology/Respiratory/README.md)
+    - [Pharyngitis](Humans/Physiology/Respiratory/Pharyngitis.md)
   - [Eating](Humans/Physiology/Eating.md)
   - [Drinking](Humans/Physiology/Drinking.md)
+  - [Genitourinary System](Humans/Physiology/Genitourinary/README.md)
+    - [Pearly Penile Papules](Humans/Physiology/Genitourinary/Pearly%20Penile%20Papules.md)
   - [Sleep](Humans/Physiology/Sleep.md)
   - [Nonsteroidal Anti-inflammatory Drugs](Humans/Physiology/Nonsteroidal%20Anti-inflammatory%20Drugs.md)
 - [Brain](Humans/Brain/README.md)
