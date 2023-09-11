@@ -12,6 +12,8 @@
 - [Brain](Humans/Brain/README.md)
   - [Learning](Humans/Brain/Learning/README.md)
     - [Duolingo](Humans/Brain/Learning/Duolingo.md)
+- [Sex](Humans/Sex/README.md)
+  - [Child Pornography](Humans/Sex/Child.md)
 - [Clothing](Humans/Clothing/README.md)
   - [Legwear](Humans/Clothing/Legwear/README.md)
     - [Stockings](Humans/Clothing/Legwear/Stockings.md)
