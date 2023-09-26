@@ -1,5 +1,7 @@
-# Eating
-[Wikipedia](https://en.wikipedia.org/wiki/Eating)
+# Digestive System
+[Wikipedia](https://en.wikipedia.org/wiki/Human_digestive_system)
+
+[Eating - Wikipedia](https://en.wikipedia.org/wiki/Eating)
 
 ## Glycemic index
 [Wikipedia](https://en.wikipedia.org/wiki/Glycemic_index)
