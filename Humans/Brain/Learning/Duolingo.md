@@ -8,10 +8,18 @@ Duolingo 是一家商业公司，而盈利是公司的生存前提，在使用�
 
 [Why does duolingo keep getting worse and worse? : duolingo](https://www.reddit.com/r/duolingo/comments/1292bms/why_does_duolingo_keep_getting_worse_and_worse/)
 
+[What's Next? : duolingo](https://www.reddit.com/r/duolingo/comments/166auby/whats_next/)
+
 ## 学习机制
 [Duolingo Criticism](https://sites.google.com/view/alexmlamb/essays/duolingo-criticism)
 
+- 学习强度较低。
+
 - 翻译题目判定过于严格。
+
+- 多余的动画降低了学习效率。
+
+  There are two options. "Motivational Messages" is for the screens of messages and "Animations" is for most animations.
 
 [整合 OpenAI 的 GPT-4 模型，语言学习应用多邻国推出 Max 订阅：月费 30 美元 / 年费 168 美元 - IT之家](https://www.ithome.com/0/679/729.htm)
 
