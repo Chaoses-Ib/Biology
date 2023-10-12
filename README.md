@@ -1,5 +1,44 @@
 # [Biology](Biology.md)
-## Humans
+## Plantae
+- Tracheophytes
+  - Angiosperms
+    - Eudicots
+      - Asterids
+        - Solanales
+          - Convolvulaceae
+            - Ipomoea
+              - [I. batatas](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/batatas.md)
+          - Solanaceae
+            - Solanum
+              - [S. tuberosum](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Solanum/tuberosum.md)
+    - Monocots
+      - Commelinids
+        - Poales
+          - Poaceae
+            - [Oryza](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md)
+      - Dioscoreales
+        - Dioscoreaceae
+          - Dioscorea
+            - [D. alata](Plantae/Tracheophytes/Angiosperms/Monocots/Dioscoreales/Dioscoreaceae/Dioscorea/alata.md)
+
+## Animalia
+- Chordata
+  - Aves
+    - Galliformes
+      - Phasianidae
+        - Gallus
+          - [G. domesticus](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/domesticus.md)
+  - Mammalia
+    - Primates
+      - Haplorhini
+        - Simiiformes
+          - Hominidae
+            - Homininae
+              - Hominini
+                - Homo
+                  - [H. sapiens](Humans/README.md)
+
+## [Humans](Humans/README.md)
 ### [Physiology](Humans/Physiology/README.md)
 - Musculoskeletal System
 - Circulatory System
@@ -10,7 +49,6 @@
 - [Digestive System](Humans/Physiology/Digestive/README.md)
   - [Cooking](Humans/Physiology/Digestive/Cooking/README.md)
     - [Fryers](Humans/Physiology/Digestive/Cooking/Fryers/README.md)
-      - [French Fries](Humans/Physiology/Digestive/Cooking/Fryers/French%20Fries.md)
     - [Ovens](Humans/Physiology/Digestive/Cooking/Ovens/README.md)
       - [Convection Ovens](Humans/Physiology/Digestive/Cooking/Ovens/Convection.md)
       - [Pies](Humans/Physiology/Digestive/Cooking/Ovens/Pies/README.md)

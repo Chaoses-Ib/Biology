@@ -24,6 +24,8 @@ A **convection oven** (also known as a **fan-assisted oven** or simply a **fan o
 
 [小米推出米家智能空气炸锅 6.5L 嫩烤版：支持 230℃远红外加热，众筹价 449 元 - IT之家](https://www.ithome.com/0/720/708.htm)
 
+- 趁着锅还热着时清洗效果比较好。
+
 ### 美的
 ![](https://img.alicdn.com/imgextra/i4/2209883067676/O1CN01maFZuk26Zf2BLV8C8_!!2209883067676.jpg)  
 ![](https://img.alicdn.com/imgextra/i2/2209883067676/O1CN019FIARM26Zf2EUzeeg_!!2209883067676.jpg)
