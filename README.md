@@ -45,6 +45,7 @@
 - Integumentary System
 - Immune System
 - [Respiratory System](Humans/Physiology/Respiratory/README.md)
+  - [Cough](Humans/Physiology/Respiratory/Cough.md)
   - [Pharyngitis](Humans/Physiology/Respiratory/Pharyngitis.md)
 - [Digestive System](Humans/Physiology/Digestive/README.md)
   - [Cooking](Humans/Physiology/Digestive/Cooking/README.md)
