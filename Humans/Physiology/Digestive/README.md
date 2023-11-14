@@ -6,7 +6,12 @@
 ## Glycemic index
 [Wikipedia](https://en.wikipedia.org/wiki/Glycemic_index)
 
-## Low-carbohydrate diet
+## Diet
+[Wikipedia](https://en.wikipedia.org/wiki/Diet_(nutrition))
+
+[Healthy diet - Wikipedia](https://en.wikipedia.org/wiki/Healthy_diet)
+
+### Low-carbohydrate diet
 [Wikipedia](https://en.wikipedia.org/wiki/Low-carbohydrate_diet)
 
 没有充分的证据表明低碳水化合物饮食除了减肥之外还能带来任何特殊的健康益处，低碳水化合物饮食取得的结果与其他饮食相似，因为减肥主要取决于热量限制和坚持。 

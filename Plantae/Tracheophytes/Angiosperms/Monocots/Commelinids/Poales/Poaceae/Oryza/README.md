@@ -15,3 +15,28 @@
   - 海苔黑米肉松
   - 奥尔良鸡肉
   - 香菇卤肉
+
+饭团卷不适合使用空气炸锅加热，容易出现外热内冷。
+
+### Bread
+[Wikipedia](https://en.wikipedia.org/wiki/Bread)
+
+### Bread crumbs
+[Wikipedia](https://en.wikipedia.org/wiki/Bread_crumbs)
+
+- 雪花糠
+
+### Pizza
+[Wikipedia](https://en.wikipedia.org/wiki/Pizza)
+
+**Pizza** is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as various types of sausage, anchovies, mushrooms, onions, olives, vegetables, meat, ham, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.
+
+Diameter | Weight
+--- | ---
+6" / 16cm | 180g
+
+Frozen pizza:
+- 展艺
+  - 180g/11元
+- 皇家小虎
+  - 180g/9元

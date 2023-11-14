@@ -26,6 +26,8 @@ A **convection oven** (also known as a **fan-assisted oven** or simply a **fan o
 
 - 趁着锅还热着时清洗效果比较好。
 
+[妈妈再也不用担心我每天吃外卖啦------料理小白榨干空气炸锅的所有价值 - 什么值得买](https://post.smzdm.com/p/azx5g9m0/)
+
 ### 美的
 ![](https://img.alicdn.com/imgextra/i4/2209883067676/O1CN01maFZuk26Zf2BLV8C8_!!2209883067676.jpg)  
 ![](https://img.alicdn.com/imgextra/i2/2209883067676/O1CN019FIARM26Zf2EUzeeg_!!2209883067676.jpg)

@@ -11,11 +11,22 @@
           - Solanaceae
             - Solanum
               - [S. tuberosum](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Solanum/tuberosum.md)
+      - Rosids
+        - Malvales
+          - Malvaceae
+            - Theobroma
+              - [T. cacao](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Theobroma/cacao.md)
     - Monocots
       - Commelinids
         - Poales
           - Poaceae
             - [Oryza](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md)
+            - Panicoideae
+              - Zea
+                - [Z. mays](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Panicoideae/Zea/mays.md)
+        - Zingiberales
+          - Musaceae
+            - [Musa](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Musaceae/Musa/README.md)
       - Dioscoreales
         - Dioscoreaceae
           - Dioscorea
