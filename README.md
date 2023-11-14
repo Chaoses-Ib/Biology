@@ -47,7 +47,7 @@
             - Homininae
               - Hominini
                 - Homo
-                  - [H. sapiens](Humans/README.md)
+                  - [H. sapiens](#humans)
 
 ## [Humans](Humans/README.md)
 ### [Physiology](Humans/Physiology/README.md)
@@ -89,6 +89,7 @@
 
 ### [Countries](Humans/Countries/README.md)
 - [Canada](Humans/Countries/Canada/README.md)
+- [中国](Humans/Countries/中国/README.md)
 - [日本](Humans/Countries/日本/README.md)
 
 ### [Clothing](Humans/Clothing/README.md)
