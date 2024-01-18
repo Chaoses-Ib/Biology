@@ -18,6 +18,19 @@ Blogs:
 
 Windows:
 - [Microsoft 日本語 IME](https://support.microsoft.com/ja-jp/windows/microsoft-%E6%97%A5%E6%9C%AC%E8%AA%9E-ime-da40471d-6b91-4042-ae8b-713a96476916)
+  
+  [Microsoft 日语输入法 - Microsoft 支持](https://support.microsoft.com/zh-cn/windows/microsoft-%E6%97%A5%E8%AF%AD%E8%BE%93%E5%85%A5%E6%B3%95-da40471d-6b91-4042-ae8b-713a96476916)
+  - <code>Alt+\`</code> 変換
+  - `Ctrl+CapsLock` 平仮名
+  - `Alt+CapsLock` 片仮名
+  - `Shift+CapsLock` 変換（平仮名）
+  
+  入力：
+  - `F6` 平仮名
+  - `F7` 片仮名
+  - `F8` 半角片仮名
+  - `F9` 全角
+  - `F10` 半角
 
 Android:
 - [Gboard](https://www.google.co.jp/ime/)
@@ -62,6 +75,7 @@ Android:
 - JLPT
   - [大连理工《新日本语能力测试50天逐级突破-N5》](https://ankiweb.net/shared/info/1354926657)
   - shimatsu3046
+    - [日语红宝书N5（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/452778955)
     - [日语红宝书N4（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/958705781)
     - [日语红宝书N3（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/663515780)
     - [日语红宝书N2（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/1868780661)
