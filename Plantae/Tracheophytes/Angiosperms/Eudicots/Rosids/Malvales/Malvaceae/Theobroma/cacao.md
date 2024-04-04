@@ -11,6 +11,8 @@
 
 [2022年有什么好吃的牛奶巧克力推荐？什么奶巧性价比高，都有哪些牛奶巧克力品牌？ 怎么挑选和保存？](https://www.zhihu.com/tardis/zm/art/369375940?source_id=1003)
 
+- KDV 紫皮糖
+
 ### [Maltesers](https://en.wikipedia.org/wiki/Maltesers)
 > Maltesers consist of a spheroid malted milk centre surrounded by milk chocolate.
 
@@ -18,3 +20,8 @@
 
 - Maltesers：92元/kg
 - 巧乐思：50元/kg
+
+### 麦片巧克力
+- 比比赞：14元/kg
+  - 代可可脂
+- 蜡笔小新：27元/kg

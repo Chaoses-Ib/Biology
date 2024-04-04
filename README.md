@@ -4,6 +4,10 @@
   - Angiosperms
     - Eudicots
       - Asterids
+        - Ericales
+          - Theaceae
+            - Camellia
+              - [C. sinensis](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Theaceae/Camellia/sinensis.md)
         - Solanales
           - Convolvulaceae
             - Ipomoea
@@ -40,6 +44,11 @@
         - Gallus
           - [G. domesticus](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/domesticus.md)
   - Mammalia
+    - Artiodactyla
+      - Bovidae
+        - Bovinae
+          - Bos
+            - [B. taurus](Animalia/Chordata/Mammalia/Artiodactyla/Bovidae/Bovinae/Bos/taurus.md)
     - Primates
       - Haplorhini
         - Simiiformes

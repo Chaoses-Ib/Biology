@@ -5,6 +5,9 @@
 
 Preparing food with heat or fire is an activity unique to humans. Archeological evidence of cooking fires from at least 300,000 years ago exists, but some estimate that humans started cooking up to 2 million years ago.
 
+代餐：
+- 若饭
+
 V2EX:
 - [独居懒人, 健康饮食推荐 - V2EX](https://v2ex.com/t/962258)
 - [大半夜的好饿，有啥推荐的零食没。 - V2EX](https://www.v2ex.com/t/982238)
