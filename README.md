@@ -111,6 +111,7 @@
 ### [Games](Humans/Games/README.md)
 - [Genres](Humans/Games/Genres/README.md)
   - [Action](Humans/Games/Genres/Action/README.md)
+  - [Role-playing](Humans/Games/Genres/Role/README.md)
   - [Simulation](Humans/Games/Genres/Simulation/README.md)
 
 ### [Clothing](Humans/Clothing/README.md)
