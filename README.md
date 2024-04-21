@@ -62,7 +62,8 @@
 ### [Physiology](Humans/Physiology/README.md)
 - Musculoskeletal System
 - Circulatory System
-- Integumentary System
+- [Integumentary System](Humans/Physiology/Integumentary/README.md)
+  - [Hair](Humans/Physiology/Integumentary/Hair/README.md)
 - Immune System
 - [Respiratory System](Humans/Physiology/Respiratory/README.md)
   - [Cough](Humans/Physiology/Respiratory/Cough.md)
