@@ -1,7 +1,7 @@
 # Simulation
 [Wikipedia](https://en.wikipedia.org/wiki/Simulation_video_game)
 
-## Construction and management simulation
+## Construction and management simulation (CMS)
 ### Business simulation games
 [Wikipedia](https://en.wikipedia.org/wiki/Business_simulation_game)
 

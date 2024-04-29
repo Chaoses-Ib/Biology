@@ -114,6 +114,7 @@
   - [Action](Humans/Games/Genres/Action/README.md)
   - [Role-playing](Humans/Games/Genres/Role/README.md)
   - [Simulation](Humans/Games/Genres/Simulation/README.md)
+    - [Life (SLG)](Humans/Games/Genres/Simulation/Life.md)
 
 ### [Clothing](Humans/Clothing/README.md)
 - [Legwear](Humans/Clothing/Legwear/README.md)
