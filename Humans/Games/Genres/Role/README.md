@@ -2,6 +2,9 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Role-playing_video_game)
 
 ## [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)
+### Final Fantasy VII
+[ファイナルファンタジーVIIの登場人物 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVII%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9)
+
 - 2007 [Crisis Core: Final Fantasy VII](https://en.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII)
   - 2022 Crisis Core: Final Fantasy VII Reunion
 
