@@ -1,4 +1,4 @@
-# Life (SLG)
+# Life Simulation Games (SLG)
 [Wikipedia](https://en.wikipedia.org/wiki/Life_simulation_game)
 
 ## Games

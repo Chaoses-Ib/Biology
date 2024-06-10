@@ -1,4 +1,4 @@
-# Simulation
+# Simulation Games
 [Wikipedia](https://en.wikipedia.org/wiki/Simulation_video_game)
 
 ## Construction and management simulation (CMS)

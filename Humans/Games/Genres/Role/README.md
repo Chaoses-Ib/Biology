@@ -1,4 +1,4 @@
-# Role-playing
+# Role-playing Games
 [Wikipedia](https://en.wikipedia.org/wiki/Role-playing_video_game)
 
 ## [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)

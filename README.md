@@ -111,10 +111,12 @@
 
 ### [Games](Humans/Games/README.md)
 - [Genres](Humans/Games/Genres/README.md)
-  - [Action](Humans/Games/Genres/Action/README.md)
-  - [Role-playing](Humans/Games/Genres/Role/README.md)
-  - [Simulation](Humans/Games/Genres/Simulation/README.md)
-    - [Life (SLG)](Humans/Games/Genres/Simulation/Life.md)
+  - [Action Games](Humans/Games/Genres/Action/README.md)
+    - [Side-scrolling Action Games](Humans/Games/Genres/Action/Side-scrolling.md)
+    - [Shooting Games](Humans/Games/Genres/Action/Shooting.md)
+  - [Role-playing Games](Humans/Games/Genres/Role/README.md)
+  - [Simulation Games](Humans/Games/Genres/Simulation/README.md)
+    - [Life Simulation Games (SLG)](Humans/Games/Genres/Simulation/Life.md)
 
 ### [Clothing](Humans/Clothing/README.md)
 - [Legwear](Humans/Clothing/Legwear/README.md)

@@ -1,4 +1,6 @@
-# Action
+# Action Games
+[Wikipedia](https://en.wikipedia.org/wiki/Action_game)
+
 ## Snake
 [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 
