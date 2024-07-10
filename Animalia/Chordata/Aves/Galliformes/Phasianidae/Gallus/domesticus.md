@@ -49,3 +49,9 @@ China:
 
 ### Chicken rings
 - 大用
+
+### 鸡蛋卷
+[维基百科](https://zh.wikipedia.org/wiki/%E9%B8%A1%E8%9B%8B%E5%8D%B7)
+
+香芋注心：
+- 良品铺子
