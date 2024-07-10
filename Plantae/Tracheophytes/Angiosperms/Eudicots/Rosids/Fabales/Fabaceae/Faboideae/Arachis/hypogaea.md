@@ -1,0 +1,17 @@
+# Arachis hypogaea (peanut)
+[Wikipedia](https://en.wikipedia.org/wiki/Peanut)
+
+## Cooking
+### 多味花生
+[百度百科](https://baike.baidu.com/item/%E5%A4%9A%E5%91%B3%E8%8A%B1%E7%94%9F/7506514)
+
+Brands:
+- 老街口：20元/kg
+  - 100g/袋
+- 憨豆熊：20元/kg
+- 三只松鼠：19元/kg
+
+  [三只松鼠再陷风波，食安问题何时休？\_进行](https://www.sohu.com/a/503350174_121034388)
+
+### 鱼皮花生
+[百度百科](https://baike.baidu.com/item/%E9%B1%BC%E7%9A%AE%E8%8A%B1%E7%94%9F/7886166)

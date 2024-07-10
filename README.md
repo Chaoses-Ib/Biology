@@ -16,6 +16,11 @@
             - Solanum
               - [S. tuberosum](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Solanum/tuberosum.md)
       - Rosids
+        - Fabales
+          - Fabaceae
+            - Faboideae
+              - Arachis
+                - [A. hypogaea (peanut)](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Arachis/hypogaea.md)
         - Malvales
           - Malvaceae
             - Theobroma
