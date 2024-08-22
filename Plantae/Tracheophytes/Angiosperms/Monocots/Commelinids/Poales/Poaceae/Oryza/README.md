@@ -12,6 +12,32 @@
 
 [速冻米面产品迎"中式创新潮"](https://www.cnfood.cn/article?id=1707331939801862145)
 
+### 自热米饭
+- 安检问题
+
+### 免蒸米饭
+[速食免蒸米饭是什么原理？ - 知乎](https://www.zhihu.com/question/431617824)
+> 开水冲泡即可食用的米饭，实际上不是生的大米，而是脱水米饭。
+> 
+> 大米的主要成分是淀粉，大部分是以分支结构为主的支链淀粉，也有少量直链淀粉。生的米粒又小又硬，是因为淀粉链之间被氢键紧紧结合在一起。加水后加热，氢键就会被破坏，直链淀粉溶解，支链淀粉的分支则会伸展开，水分子进入支链之间，这称为淀粉的糊化。糊化后的米粒膨胀、变软，成为软糯的米饭。
+> 
+> 米饭在空气中放置一段时间后又会变硬，这是因为随着水分逐渐蒸发和温度逐渐降低，淀粉链之间的部分氢键会重新生成，淀粉分子再次定向排列在一起。这个过程称为回生。
+> 
+> 生产速食米饭的关键，就是既要将蒸煮后已经糊化的米饭脱水以便于储运，同时还要防止回生。方法通常有两种：一种是直接用热风烘干或微波加热，让水分迅速蒸发；另一种是先冷冻后再在真空环境中让水分升华。经过这样的处理，米饭就会保持脱水但没有回生的状态。只要加入热水冲泡，很快就可以食用了。
+
+[这种添加了食品添加剂的免蒸米饭吃了有没有什么坏处? - 知乎](https://www.zhihu.com/question/431198430)
+> 磷酸酯双淀粉主要作用是增稠剂，可以增加制品的透明度和滑爽度，改善口感。只要添加量符合国家标准，对人体是无害的。
+> 
+> 单双甘油脂肪酸脂可以防止淀粉老化，可以使大米体积增大，富有弹性。糖尿病人不宜食用。
+> 
+> 磷酸二氢钙可以使大米变的蓬松。总的来说加入添加剂后会改变大米的口感，使本来就 不好吃的大米变得好吃。虽然说国家对食品添加剂有严格的控制，但总有不法商贩为了利益会乱添加。吃点纯天然无添加的大米它不香吗？
+
+[免蒸米饭大家试过吗 - 生存狂吧](https://tieba.baidu.com/p/8645796223)
+
+含菜：
+- 小祥：18元/kg（413g/桶）
+- 西奥图：18.6元/kg（134g/桶）
+
 ### あにぎり
 [主打天然五谷杂粮饭团，「QQ RICE 饭饭通」认为饭团自动售货机是个更好的生意-36氪](https://36kr.com/p/1725363208193)
 
@@ -32,32 +58,3 @@
   - 奥尔良鸡肉
 
 [最快的早餐怎么选？14块饭团实测与推荐\_原创\_新浪众测](https://zhongce.sina.com.cn/article/view/129126)
-
-### Bread
-[Wikipedia](https://en.wikipedia.org/wiki/Bread)
-
-### Bread crumbs
-[Wikipedia](https://en.wikipedia.org/wiki/Bread_crumbs)
-
-- 雪花糠
-
-### Pizza
-[Wikipedia](https://en.wikipedia.org/wiki/Pizza)
-
-**Pizza** is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as various types of sausage, anchovies, mushrooms, onions, olives, vegetables, meat, ham, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.
-
-Diameter | Weight
---- | ---
-6" / 16cm | 180g
-
-Frozen pizza:
-- 展艺
-  - 180g/11元
-- 皇家小虎
-  - 180g/9元
-  - 饼小而厚；配料较多。
-- 披萨在线（披萨快线）
-  - 230g/11元
-  - 味道差，不如展艺、皇家小虎。
-
-较厚的披萨较难通过空气炸锅完全烤熟。
