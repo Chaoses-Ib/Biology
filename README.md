@@ -30,6 +30,7 @@
         - Poales
           - Poaceae
             - [Oryza](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md)
+              - [O. sativa](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/sativa.md)
             - Panicoideae
               - Zea
                 - [Z. mays](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Panicoideae/Zea/mays.md)

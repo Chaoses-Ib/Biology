@@ -10,6 +10,11 @@
 
 - 雪花糠
 
+### Hamburger
+[Wikipedia](https://en.wikipedia.org/wiki/Hamburger)
+
+即食汉堡
+
 ### Pizza
 [Wikipedia](https://en.wikipedia.org/wiki/Pizza)
 
