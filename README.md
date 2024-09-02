@@ -79,6 +79,7 @@
   - [Pneumonia](Humans/Physiology/Respiratory/Pneumonia/README.md)
     - [Atypical pneumonia](Humans/Physiology/Respiratory/Pneumonia/Atypical.md)
 - [Digestive System](Humans/Physiology/Digestive/README.md)
+  - [Teeth](Humans/Physiology/Digestive/Teeth/README.md)
   - [Enema](Humans/Physiology/Digestive/Enema.md)
   - [Cooking](Humans/Physiology/Digestive/Cooking/README.md)
     - [Fryers](Humans/Physiology/Digestive/Cooking/Fryers/README.md)
