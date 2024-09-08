@@ -8,6 +8,9 @@ Also known as **chicken**.
 
 [避雷 这个大希地是真不行 178](https://nga.178.com/read.php?tid=34641451&rand=691)
 
+### Chicken
+- 10, 40~92元/kg
+
 ### Fried chicken
 [List of fried chicken dishes - Wikipedia](https://en.wikipedia.org/wiki/List_of_fried_chicken_dishes)
 
@@ -20,6 +23,12 @@ China:
   - 油很多，空气炸锅炸一次锅就脏了。
 
 [有哪些淘宝京东在售的安全又好吃的炸鸡半成品？ - 知乎](https://www.zhihu.com/question/369691696)
+
+### Chicken drumsticks (鸡腿)
+小鸡腿：
+- 比较适合小孩吃
+- 比比赞：65~70元/kg
+  - 味道尚可
 
 ### [Chicken fingers](https://en.wikipedia.org/wiki/Chicken_fingers)
 带雪花糠（雪花鸡柳、金米鸡条）：

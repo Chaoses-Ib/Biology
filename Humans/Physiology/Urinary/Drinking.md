@@ -35,3 +35,7 @@ Your fluid intake is probably adequate if[^mayoclinic]:
   - 橙汁
   - 葡萄汁
   - 荔枝
+
+  虽然好喝，但有点涩，感觉上不太解渴。
+
+### [→粥](/Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md#粥-congee)
