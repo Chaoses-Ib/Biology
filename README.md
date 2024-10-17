@@ -34,8 +34,8 @@
             - Panicoideae
               - Zea
                 - [Z. mays](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Panicoideae/Zea/mays.md)
-            - Triticum
-              - [T. aestivum](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/aestivum.md)
+            - Triticum (Wheat)
+              - [T. aestivum (Common Wheat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/aestivum.md)
         - Zingiberales
           - Musaceae
             - [Musa](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Musaceae/Musa/README.md)
