@@ -55,3 +55,19 @@
 > One study found that brushing immediately after an acidic meal (such as diet soda or common breakfast foods like orange juice, coffee, citrus fruit, dried fruit, bread, or pastries) caused more damage to enamel and dentin compared to waiting 30 minutes. Brushing immediately after consuming acidic beverages should be avoided. It is better to brush before breakfast or dinner.
 >
 > In addition, brushing before breakfast eliminates overnight bacteria buildup, preventing them from thriving on sugary breakfast foods and producing enamel-damaging acids, while stimulating saliva production to neutralize acidity and reinforce teeth with essential minerals.
+
+### Toothpastes
+[Wikipedia](https://en.wikipedia.org/wiki/Toothpaste)
+
+[口腔护理用品 - 口腔健康教育事务科](https://www.toothclub.gov.hk/sc/sc_adu_01_03_02_02.html)
+
+- 含氟化物牙膏
+- 防敏感牙膏
+- 防牙石牙膏
+- 防牙菌膜牙膏
+- 美白牙膏
+
+Brands:
+- Colgate (高露洁)
+- Procter & Gamble (宝洁)
+  - Crest (佳洁士)
