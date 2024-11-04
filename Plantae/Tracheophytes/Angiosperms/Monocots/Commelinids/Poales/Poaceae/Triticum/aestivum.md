@@ -56,6 +56,10 @@ Frozen pizza:
 #### Spaghetti
 - Barilla: 33 元/kg
 - 西奥图: 23 元/kg
+  - 酱料
+    - 黑胡椒味
+    - 番茄味：不太好吃，有一股类似蔬菜干的怪味
+  - 不会粘连
 - 小牛凯西
 
 ### Biscuits
@@ -64,7 +68,11 @@ Frozen pizza:
 > In most of North America, nearly all hard sweet biscuits are called "cookies" and savoury biscuits are called "crackers", while the term biscuit is used for a soft, leavened quick bread similar to a savoury version of a scone.
 
 - Konti 巧克力味三明治饼干：31元/kg
-  - 巧克力味
-  - 花生榛子味
+  - 口味
+    - 巧克力味
+    - 花生榛子味：味道不如巧克力味
+  - 单包装内有两个饼干
+
+  口感类似更硬实的好丽友。
 
   [我再推荐一个康吉牌（KONTI）的三明治饼干，味道好极了\_风闻](https://user.guancha.cn/main/content?id=706602&s=fwzwyzzwzbt)
