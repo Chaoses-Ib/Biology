@@ -130,6 +130,7 @@
     - [Shooting Games](Humans/Games/Genres/Action/Shooting.md)
   - [Role-playing Games](Humans/Games/Genres/Role/README.md)
   - [Simulation Games](Humans/Games/Genres/Simulation/README.md)
+    - [Building Games](Humans/Games/Genres/Simulation/Building/README.md)
     - [Life Simulation Games (SLG)](Humans/Games/Genres/Simulation/Life.md)
     - [Gal Games](Humans/Games/Genres/Simulation/Gal/README.md)
   - [Horror](Humans/Games/Genres/Horror/README.md)

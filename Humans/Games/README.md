@@ -7,4 +7,6 @@
 ## Video games
 [Wikipedia](https://en.wikipedia.org/wiki/Video_game)
 
+[PCGamingWiki PCGW - an encyclopedia of PC game fixes](https://www.pcgamingwiki.com/)
+
 - [NT³的自吹自擂](https://t.me/nt_cubic)
