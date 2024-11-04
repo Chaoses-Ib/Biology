@@ -120,6 +120,7 @@
 - [日本](Humans/Countries/日本/README.md)
 
 ### [Cultures](Humans/Cultures/README.md)
+- [Education](Humans/Cultures/Education/README.md)
 - [二次元](Humans/Cultures/二次元/README.md)
 
 ### [Games](Humans/Games/README.md)
