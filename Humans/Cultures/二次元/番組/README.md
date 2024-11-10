@@ -1,15 +1,18 @@
 # 番剧
-%%t210813%%
-[Bangumi 番组计划](https://bgm.tv/)
-	%%t220522%%
-	[Bangumi Research](https://chii.ai/)
-	%%t27%%
-	原来每话还可以单独设置观看状态
-%%t220501%%
-[ACG Secrets.HK](https://acgsecrets.hk/)
+## Web sites
+- [Bangumi 番组计划](#bangumi-番组计划)
+- [ACG Secrets.HK](https://acgsecrets.hk/)
+
+### [Bangumi 番组计划](https://bgm.tv/)
+- 原来还可以用来管理观看进度，但可惜只能标记本篇
+- 原来每话还可以单独设置观看状态
+- 时间胶囊……
+- 同步率
+
+  [同步率 / 共同喜好是什么算法啊](https://bgm.tv/group/topic/343865)
+- [Bangumi Research](https://chii.ai/)
 
 ## 时间表
-%%t220503%%
 [每日放送 | Bangumi 番组计划](https://bgm.tv/calendar)
-%%t04%%
+
 [动漫新番表 byHazx.](https://hmacg.cn/bangumi/)

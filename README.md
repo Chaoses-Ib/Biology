@@ -122,6 +122,8 @@
 ### [Cultures](Humans/Cultures/README.md)
 - [Education](Humans/Cultures/Education/README.md)
 - [二次元](Humans/Cultures/二次元/README.md)
+  - [番組](Humans/Cultures/二次元/番組/README.md)
+    - [Resources](Humans/Cultures/二次元/番組/Resources.md)
 
 ### [Games](Humans/Games/README.md)
 - [Genres](Humans/Games/Genres/README.md)

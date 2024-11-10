@@ -1,20 +1,20 @@
 # 资源
-%%t220501~04%%
 [^v2ex]
-## 在线正版
- [^数字移民]
-- 哔哩哔哩港澳台
-	%%t20%% 但港澳台也可能有修正
-- [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
 
+## 在线正版
+[^数字移民]
+
+- 哔哩哔哩港澳台
+  - 但港澳台也可能有修正
+- [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
 
 ## 在线盗版
 - Telegram [^tg-bangumi]
-	- [NEP.Anime | 动画仓库](https://t.me/AnimeNep)
-
+  - [NEP.Anime | 动画仓库](https://t.me/AnimeNep)
 
 ## BitTorrent
- [^Aquarium39]
+[^Aquarium39]
+
 - [Nyaa](https://nyaa.si/)
 - [動漫花園資源網](https://share.dmhy.org/)
 - [爱恋动漫](https://kisssub.org/)
@@ -23,7 +23,6 @@
 - [MioBT](http://www.miobt.com/)
 - [萌番组](https://bangumi.moe/)
 
-%%t19%%
 - [NC-Raws](https://nc.raws.dev/0:/)
 
 
