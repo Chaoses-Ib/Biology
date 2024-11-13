@@ -19,3 +19,14 @@
 
   Tools:
   - [newthiagobc23/lastwar](https://github.com/newthiagobc23/lastwar)
+
+- 2024-10 Capybara Go! ([Google Play](https://play.google.com/store/apps/details?id=com.habby.capybara&hl=en_US&pli=1))
+  - 战力差比较明显，换一个装备就可能从被碾压变成碾压
+  - 装备、宠物可以无损降级
+  - 装备可以合成来提升品阶
+  - 有自动扫荡功能，但加速需要月卡
+  - 满血时获得护盾，血条看起来是被护盾覆盖了，但实际上应该是总血量增加，血量占比减少了
+  - 活动入口比较杂乱
+  - 不主动触发不会有外部广告
+
+  [Capybara Go! Wiki and Guides - Capybara Go! Wiki and Guides](https://capybara-go.game-vault.net/wiki/Main_Page)
