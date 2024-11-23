@@ -26,6 +26,10 @@
             - Theobroma
               - [T. cacao](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Theobroma/cacao.md)
     - Monocots
+      - Alismatales
+        - Araceae
+          - Colocasia
+            - [C. esculenta (Taro)](Plantae/Tracheophytes/Angiosperms/Monocots/Alismatales/Araceae/Colocasia/esculenta.md)
       - Commelinids
         - Poales
           - Poaceae
@@ -42,7 +46,7 @@
       - Dioscoreales
         - Dioscoreaceae
           - Dioscorea
-            - [D. alata](Plantae/Tracheophytes/Angiosperms/Monocots/Dioscoreales/Dioscoreaceae/Dioscorea/alata.md)
+            - [D. alata (Purple Yam)](Plantae/Tracheophytes/Angiosperms/Monocots/Dioscoreales/Dioscoreaceae/Dioscorea/alata.md)
 
 ## Animalia
 - Chordata
