@@ -1,4 +1,4 @@
-# Oryza
+# Oryza (Rice)
 [Wikipedia](https://en.wikipedia.org/wiki/Oryza)
 
 [Rice - Wikipedia](https://en.wikipedia.org/wiki/Rice)

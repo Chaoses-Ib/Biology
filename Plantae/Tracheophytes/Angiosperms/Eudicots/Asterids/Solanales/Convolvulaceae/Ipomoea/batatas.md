@@ -1,4 +1,4 @@
-# Ipomoea batatas
+# Ipomoea batatas (Sweet Potato)
 [Wikipedia](https://en.wikipedia.org/wiki/Sweet_potato)
 
 Also known as **sweet potato**.

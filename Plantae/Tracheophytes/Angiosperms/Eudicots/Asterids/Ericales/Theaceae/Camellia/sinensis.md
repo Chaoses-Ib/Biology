@@ -1,4 +1,6 @@
-# Camellia sinensis
+# Camellia sinensis (Tea Plants)
+[Wikipedia](https://en.wikipedia.org/wiki/Camellia_sinensis)
+
 ## [Tea](https://en.wikipedia.org/wiki/Tea)
 - [Milk tea](https://en.wikipedia.org/wiki/Milk_tea)
 - [Bubble tea](https://en.wikipedia.org/wiki/Bubble_tea)

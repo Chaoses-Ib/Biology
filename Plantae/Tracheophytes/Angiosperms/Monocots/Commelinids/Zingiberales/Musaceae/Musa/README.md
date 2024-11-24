@@ -1,4 +1,4 @@
-# Musa
+# Musa (Banana Plants)
 [Wikipedia](https://en.wikipedia.org/wiki/Musa_(genus))
 
 ## Bananas

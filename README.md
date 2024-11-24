@@ -7,20 +7,20 @@
         - Ericales
           - Theaceae
             - Camellia
-              - [C. sinensis](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Theaceae/Camellia/sinensis.md)
+              - [C. sinensis (Tea Plants)](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Ericales/Theaceae/Camellia/sinensis.md)
         - Solanales
           - Convolvulaceae
             - Ipomoea
-              - [I. batatas](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/batatas.md)
+              - [I. batatas (Sweet Potato)](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Convolvulaceae/Ipomoea/batatas.md)
           - Solanaceae
             - Solanum
-              - [S. tuberosum](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Solanum/tuberosum.md)
+              - [S. tuberosum (Potato)](Plantae/Tracheophytes/Angiosperms/Eudicots/Asterids/Solanales/Solanaceae/Solanum/tuberosum.md)
       - Rosids
         - Fabales
           - Fabaceae
             - Faboideae
               - Arachis
-                - [A. hypogaea (peanut)](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Arachis/hypogaea.md)
+                - [A. hypogaea (Peanut)](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Fabales/Fabaceae/Faboideae/Arachis/hypogaea.md)
         - Malvales
           - Malvaceae
             - Theobroma
@@ -33,16 +33,16 @@
       - Commelinids
         - Poales
           - Poaceae
-            - [Oryza](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md)
+            - [Oryza (Rice)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/README.md)
               - [O. sativa](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Oryza/sativa.md)
             - Panicoideae
               - Zea
-                - [Z. mays](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Panicoideae/Zea/mays.md)
+                - [Z. mays (Corn)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Panicoideae/Zea/mays.md)
             - Triticum (Wheat)
               - [T. aestivum (Common Wheat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/aestivum.md)
         - Zingiberales
           - Musaceae
-            - [Musa](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Musaceae/Musa/README.md)
+            - [Musa (Banana Plants)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Musaceae/Musa/README.md)
       - Dioscoreales
         - Dioscoreaceae
           - Dioscorea
@@ -54,13 +54,13 @@
     - Galliformes
       - Phasianidae
         - Gallus
-          - [G. domesticus](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/domesticus.md)
+          - [G. domesticus (Chicken)](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/domesticus.md)
   - Mammalia
     - Artiodactyla
       - Bovidae
         - Bovinae
           - Bos
-            - [B. taurus](Animalia/Chordata/Mammalia/Artiodactyla/Bovidae/Bovinae/Bos/taurus.md)
+            - [B. taurus (Cattle)](Animalia/Chordata/Mammalia/Artiodactyla/Bovidae/Bovinae/Bos/taurus.md)
     - Primates
       - Haplorhini
         - Simiiformes
@@ -68,7 +68,7 @@
             - Homininae
               - Hominini
                 - Homo
-                  - [H. sapiens](#humans)
+                  - [H. sapiens (Humans)](#humans)
 
 ## [Humans](Humans/README.md)
 ### [Physiology](Humans/Physiology/README.md)

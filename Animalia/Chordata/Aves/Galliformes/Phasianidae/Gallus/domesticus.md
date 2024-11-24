@@ -1,4 +1,4 @@
-# Gallus domesticus
+# Gallus domesticus (Chicken)
 [Wikipedia](https://en.wikipedia.org/wiki/Chicken)
 
 Also known as **chicken**.

@@ -1,4 +1,4 @@
-# Arachis hypogaea (peanut)
+# Arachis hypogaea (Peanut)
 [Wikipedia](https://en.wikipedia.org/wiki/Peanut)
 
 ## Cooking

@@ -1,4 +1,5 @@
-# [Bos taurus](https://en.wikipedia.org/wiki/Cattle)
+# Bos taurus (Cattle)
+[Wikipedia](https://en.wikipedia.org/wiki/Cattle)
 
 ## [Milk](https://en.wikipedia.org/wiki/Milk)
 - 李子园 甜牛奶饮品

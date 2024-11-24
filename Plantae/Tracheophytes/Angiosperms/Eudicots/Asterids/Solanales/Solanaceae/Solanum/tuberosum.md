@@ -1,4 +1,4 @@
-# Solanum tuberosum
+# Solanum tuberosum (Potato)
 [Wikipedia](https://en.wikipedia.org/wiki/Potato)
 
 ## Nutrition

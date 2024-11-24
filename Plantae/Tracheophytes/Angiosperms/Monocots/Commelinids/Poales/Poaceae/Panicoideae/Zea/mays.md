@@ -1,4 +1,4 @@
-# Zea mays
+# Zea mays (Corn)
 [Wikipedia](https://en.wikipedia.org/wiki/Maize)
 
 ## Corn kernels
