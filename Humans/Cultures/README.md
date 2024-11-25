@@ -15,3 +15,6 @@
 
 [What is the difference between a culture and a civilization? When should I use one or another? : r/AskAnthropology](https://www.reddit.com/r/AskAnthropology/comments/8urubk/what_is_the_difference_between_a_culture_and_a/)
 > Both terms have multiple definitions in different contexts and are used in informal ways that overlap considerably. But generally speaking a “civilization” refers to a society that has developed cities, that is large permanently inhabited settlements, in contrast to people who live nomadically such as hunter-gatherers and pastoralists. Culture on the other hand is universal. All humans everywhere have culture. However they live, in its entirety, that’s their culture.
+
+## Screen culture
+[影视 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-cn/%E5%BD%B1%E8%A7%86)

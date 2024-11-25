@@ -32,6 +32,8 @@
 
 - [NC-Raws](https://nc.raws.dev/0:/)
 
+[追求高质量二次元，体验极致追番：Kiokoplay + Emby/PikPak使用指北 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/19123)
+
 
 [^v2ex]: [现在有什么二次元追番网站？ - V2EX](https://www.v2ex.com/t/647685)
 [^Aquarium39]: [重回番剧的下载时代 · 水族馆](https://aquarium39.moe/posts/no-more-bilibili/)
