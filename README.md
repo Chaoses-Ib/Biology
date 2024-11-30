@@ -141,6 +141,7 @@
     - [Building Games](Humans/Games/Genres/Simulation/Building/README.md)
     - [Life Simulation Games (SLG)](Humans/Games/Genres/Simulation/Life.md)
     - [Gal Games](Humans/Games/Genres/Simulation/Gal/README.md)
+  - [Puzzle Games](Humans/Games/Genres/Puzzle/README.md)
   - [Horror](Humans/Games/Genres/Horror/README.md)
   - [Card](Humans/Games/Genres/Card/README.md)
 
