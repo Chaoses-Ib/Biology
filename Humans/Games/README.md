@@ -10,3 +10,5 @@
 [PCGamingWiki PCGW - an encyclopedia of PC game fixes](https://www.pcgamingwiki.com/)
 
 - [NT³的自吹自擂](https://t.me/nt_cubic)
+
+[4399小游戏](https://www.4399.com/)
