@@ -152,3 +152,7 @@
 ### [Clothing](Humans/Clothing/README.md)
 - [Legwear](Humans/Clothing/Legwear/README.md)
   - [Stockings](Humans/Clothing/Legwear/Stockings.md)
+
+### [Societies](Humans/Societies/README.md)
+- [Politics](Humans/Societies/Politics/README.md)
+  - [Meritocracy](Humans/Societies/Politics/Meritocracy.md)
