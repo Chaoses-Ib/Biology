@@ -7,6 +7,7 @@
 Milk:
 - 新希望
   - 白帝 芋泥牛乳 12元/L
+    - 喝起来还好，喝完后嘴里会有不舒服的味道
   - 芋泥厚乳 15元/L
 
 ## [→Purple yam vs. taro](../../../Dioscoreales/Dioscoreaceae/Dioscorea/alata.md)
