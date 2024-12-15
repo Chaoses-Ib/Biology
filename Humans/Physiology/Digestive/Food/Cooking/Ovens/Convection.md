@@ -14,6 +14,8 @@ A **convection oven** (also known as a **fan-assisted oven** or simply a **fan o
 
 [空气炸锅烤箱一体机怎么样？ v 友们有用过的吗， 618 想买一个 - V2EX](https://www.v2ex.com/t/859390)
 
+容量：虽然大容量能炸更多东西，但一个人吃可能出现吃到一半就已经凉了的情况，再加热又可能影响口味，并没有那么实用。
+
 翻面：
 - [作为"懒人小家电"， "网红"空气炸锅可以不翻面吗？|快手|热风\_网易订阅](https://www.163.com/dy/article/HHSHD3NG0519D4UH.html)
 - [小米发布首款智能免翻面空气炸锅：能装下一整只鸡限时到手价249元\_空气炸锅\_什么值得买](https://post.smzdm.com/p/ad988d9p/)
