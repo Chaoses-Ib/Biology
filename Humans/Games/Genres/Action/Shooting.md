@@ -2,6 +2,10 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Shooter_game)
 
 ## Shoot 'em ups (STG)
+- 2024-04 WOWOWOW KORONE BOX ([Steam](https://store.steampowered.com/app/2825180/WOWOWOW_KORONE_BOX/))
+  - 配音可爱
+
+Roguelike:
 - 2022-06 [HoloCure – Save the Fans!](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) ([Wikipedia](https://en.wikipedia.org/wiki/HoloCure_%E2%80%93_Save_the_Fans!))
   - 对非粉丝不太友好，许多地方会理解不了内涵。
   - 无法直接得知关卡剩余进度。
