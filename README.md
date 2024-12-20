@@ -99,6 +99,9 @@
 - Endocrine System
   - [Nonsteroidal Anti-inflammatory Drugs](Humans/Physiology/Endocrine/Nonsteroidal%20Anti-inflammatory%20Drugs.md)
 
+### [Medicine](Humans/Medicine/README.md)
+- [Health Insurance](Humans/Medicine/Insurance/README.md)
+
 ### [Sport](Humans/Sport/README.md)
 - [Exercise](Humans/Sport/Exercise/README.md)
 
