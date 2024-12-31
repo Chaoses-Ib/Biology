@@ -179,6 +179,7 @@
     - [Life Simulation Games (SLG)](Humans/Games/Genres/Simulation/Life.md)
     - [Fishing Games](Humans/Games/Genres/Simulation/Fishing/README.md)
     - [Gal Games](Humans/Games/Genres/Simulation/Gal/README.md)
+  - [Sports](Humans/Games/Genres/Sports/README.md)
   - [Strategy Games](Humans/Games/Genres/Strategy/README.md)
     - [Tower Defense](Humans/Games/Genres/Strategy/Tower%20Defense.md)
   - [Sandbox](Humans/Games/Genres/Sandbox/README.md)

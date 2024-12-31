@@ -59,3 +59,5 @@
   - 不主动触发不会有外部广告
 
   [Capybara Go! Wiki and Guides - Capybara Go! Wiki and Guides](https://capybara-go.game-vault.net/wiki/Main_Page)
+
+- [荒岛求生日记](https://www.4399.com/flash/222591_2.htm)
