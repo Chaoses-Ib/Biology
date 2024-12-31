@@ -82,6 +82,9 @@
               - Hominini
                 - Homo
                   - [H. sapiens (Humans)](#humans)
+  - Olfactores
+    - Vertebrata
+      - [Fish](Animalia/Chordata/Olfactores/Vertebrata/Fish/README.md)
 
 ## [Humans](Humans/README.md)
 ### [Physiology](Humans/Physiology/README.md)
