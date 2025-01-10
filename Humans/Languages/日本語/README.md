@@ -11,6 +11,10 @@ Blogs:
 - [時雨の町｜日文學習園地｜專為日語自學者設計的教學](https://www.sigure.tw/)
 - [日語.io](https://riyu.io/)
 
+[一些常用短语的日/英/中对照 | Anki 日语交流](https://anki-blog.pages.dev/docs/jplearning/some_common_phrases/)
+
+[NSFW 词汇分享 | Anki 日语交流](https://anki-blog.pages.dev/docs/jplearning/nsfw/)
+
 ## Input methods
 [日本語入力システム - Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
 
@@ -45,7 +49,7 @@ Android:
   - [大家的日本語1-50](https://ankiweb.net/shared/info/110070534)
   - [大家的日本语初级上下单词](https://ankiweb.net/shared/info/714115453)
   - [大家的日语Ⅰ动词（辞书形）](https://ankiweb.net/shared/info/1714715084)
-  - [大家的日语 みんなの日本語 中级1 词汇](https://ankiweb.net/shared/info/768045701)
+  - ~~[大家的日语 みんなの日本語 中级1 词汇](https://ankiweb.net/shared/info/768045701)~~
 - 新版中日交流标准日本语
   - 1892756252
     - [新标准日本语 - 初级 (假名到释义) 教材原版发音](https://ankiweb.net/shared/info/1939635284)
@@ -61,19 +65,22 @@ Android:
 - 新编日语教程
   - [Japanese textbook vacabulary 新编日语教程1234（华东理工大学出版社）](https://ankiweb.net/shared/info/1959832307)
   - [新编日语 第一册 单词表](https://ankiweb.net/shared/info/1585040713)
-  - [新编日语 第二册 单词表](https://ankiweb.net/shared/info/494792513)
-  - [新编日语 第三册 单词表](https://ankiweb.net/shared/info/1926068109)
+  - ~~[新编日语 第二册 单词表](https://ankiweb.net/shared/info/494792513)~~
+  - ~~[新编日语 第三册 单词表](https://ankiweb.net/shared/info/1926068109)~~
   - [新标准日本语 - 高级 (释义到日文) 教材原版发音](https://ankiweb.net/shared/info/600812856)
   - 234934083
     - [新编日语教程第3版第1册（华东理工大学出版社）](https://ankiweb.net/shared/info/234934083)
-    - [新编日语教程第3版第2册（华东理工大学出版社）](https://ankiweb.net/shared/info/301162961)
-    - [新编日语教程第3版第3册（华东理工大学出版社）](https://ankiweb.net/shared/info/556429968)
+    - ~~[新编日语教程第3版第2册（华东理工大学出版社）](https://ankiweb.net/shared/info/301162961)~~
+    - ~~[新编日语教程第3版第3册（华东理工大学出版社）](https://ankiweb.net/shared/info/556429968)~~
     - [新编日语教程第3版第4册（华东理工大学出版社）](https://ankiweb.net/shared/info/124214813)
     - 存在较多错误。
   - [新编日语](https://ankiweb.net/shared/info/708870220)
 - [现代大学日语四册单词](https://ankiweb.net/shared/info/202198002)
 - JLPT
-  - [大连理工《新日本语能力测试50天逐级突破-N5》](https://ankiweb.net/shared/info/1354926657)
+  - [【egg rolls】JLPT N1～N5 单词＋补充（含语音、例句）v2 - AnkiWeb](https://ankiweb.net/shared/info/832276382) ([GitHub](https://github.com/5mdld/anki-jlpt-decks))
+    - Formerly `【新版】JLPT (N1～N5) 日语 中文 带语音 Japanese 日本語`
+    - 释义、关联词、例句（高亮）、语音、词典链接
+    - 例句高亮显示规则：单词为黄色，关联词为绿色，反义词为蓝色
   - shimatsu3046
     - [日语红宝书N5（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/452778955)
     - [日语红宝书N4（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/958705781)
@@ -81,17 +88,24 @@ Android:
     - [日语红宝书N2（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/1868780661)
     - [日语红宝书N1 (part1)（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/392724589)
     - [日语红宝书N1 (part2)（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/692178099)
-  - [【新版】JLPT (N1～N5) 日语 中文 带语音 Japanese 日本語 - AnkiWeb](https://ankiweb.net/shared/info/832276382)
-  - [蓝宝书N1-N5带语音](https://ankiweb.net/shared/info/567126223)
+
+    词性、释义、关联词、例句、语音
+  - 蓝宝书
+    - [【超值白金版】蓝宝书语法N1.N2.N3.N4.N5文法含振假名 - AnkiWeb](https://ankiweb.net/shared/info/1748349244)
+    - [蓝宝书N1-N5带语音](https://ankiweb.net/shared/info/567126223)
+  - [大连理工《新日本语能力测试50天逐级突破-N5》](https://ankiweb.net/shared/info/1354926657)
   - [JLPT N3 文法 sentences](https://ankiweb.net/shared/info/1536630155)
+    - 例句、语音、英释义
   - [日语N2-wang](https://ankiweb.net/shared/info/1070106578)
   - [日语N2单词](https://ankiweb.net/shared/info/1678247535)
   - [日语N3-N1卡组](https://ankiweb.net/shared/info/319731475)
+    - 图示、中/日释义、语音
   - [N1核心词汇](https://ankiweb.net/shared/info/1766844636)
+    - 词性、日/中释义、语音
   - [N1-N5日语词汇](https://ankiweb.net/shared/info/1727157716)
   - [日本语能力测试N1-N5词汇](https://ankiweb.net/shared/info/584846784)
   - [日语JLPT N1 单词](https://ankiweb.net/shared/info/457927448)
-  - [JLPT (N1～N5) 日语 中文 带语音 Japanese 日本語](https://ankiweb.net/shared/info/34073638)
+  - ~~[JLPT (N1～N5) 日语 中文 带语音 Japanese 日本語](https://ankiweb.net/shared/info/34073638)~~
 - [日文圖解單字(Japanese-Chinese)](https://ankiweb.net/shared/info/412127859)
 - [日文單字包](https://ankiweb.net/shared/info/790781485)
 - [【关于时间的敬语表现】【主要动词敬语表现】](https://ankiweb.net/shared/info/1706036667)
