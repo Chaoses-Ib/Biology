@@ -11,9 +11,20 @@
 
 ### Free
 - Telegram[^tg-bangumi][^tg-bangumi2]
-  - [NEP.Anime | 动画仓库](https://t.me/AnimeNep)
+  - NEP
+    - [NEP.Anime | 动画仓库](https://t.me/AnimeNep)
+    - [NepRawsSub](https://t.me/NepRawsSub)
   - [ANi](https://t.me/channel_ani)
+  - NC-Raws
+    - ~~[NC_Raws_Channel](https://t.me/NC_Raws_Channel)~~
+
+      [Telegram channel "NC-Raws | Channel" --- @NC\_Raws\_Channel --- TGStat](https://cn.tgstat.com/channel/@NC_Raws_Channel)
+    - ヨルクラ
+    - [ヨルクラ | Collections](https://t.me/+7zSmwVPG3d9kNDQ1)
+    - [ヨルクラ | Chat](https://t.me/+JmMaDivd7qk1ZGQx)
   - [Mikan番剧](https://t.me/mikanbangumi) (2023-09-18~2024-11-01)
+  - [DD-動畫.新番.資源倉庫.動畫討論](https://t.me/Anime_DD)
+  - [萌番组 Me Love You](https://t.me/bangumimoe)
   - [爷青回动画分享频道](https://t.me/yeqingjie_GJG666)
 
   Tools:
@@ -30,7 +41,10 @@
 - [MioBT](http://www.miobt.com/)
 - [萌番组](https://bangumi.moe/)
 
-- [NC-Raws](https://nc.raws.dev/0:/)
+- ~~[NC-Raws](https://nc.raws.dev/0:/)~~ (NC-raws, 神楽坂 まひろ, 【推しの子】, GJ.Y, Up to 21°C)
+  - [Nyaa Pantsu](https://ouo.si/)
+
+    [新发布站 -- \[GJ.Y\]](https://kirara-fantasia.moe/view/%e6%96%b0%e5%8f%91%e5%b8%83%e7%ab%99/)
 
 [追求高质量二次元，体验极致追番：Kiokoplay + Emby/PikPak使用指北 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/19123)
 

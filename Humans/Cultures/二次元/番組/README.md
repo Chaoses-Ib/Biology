@@ -17,5 +17,7 @@
 
 [动漫新番表 byHazx.](https://hmacg.cn/bangumi/)
 
+[Bangumi | 番組維基](https://bgm.wiki/)
+
 ## Tools
 - [EasyBangumi: 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源](https://github.com/easybangumiorg/EasyBangumi)
