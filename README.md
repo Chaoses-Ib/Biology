@@ -61,6 +61,9 @@
         - Bovinae
           - Bos
             - [B. taurus (Cattle)](Animalia/Chordata/Mammalia/Artiodactyla/Bovidae/Bovinae/Bos/taurus.md)
+      - Suidae
+        - Sus
+          - [S. domesticus (Pig)](Animalia/Chordata/Mammalia/Artiodactyla/Suidae/Sus/domesticus.md)
     - Primates
       - Haplorhini
         - Simiiformes
