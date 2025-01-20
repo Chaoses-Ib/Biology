@@ -133,6 +133,7 @@
 - [Education](Humans/Cultures/Education/README.md)
 - [二次元](Humans/Cultures/二次元/README.md)
   - [アニメ](Humans/Cultures/二次元/アニメ/README.md)
+    - [韓国アニメ](Humans/Cultures/二次元/アニメ/韓国.md)
     - [Resources](Humans/Cultures/二次元/アニメ/Resources.md)
 
 ### [Films](Humans/Films/README.md)
