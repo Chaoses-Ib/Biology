@@ -1,4 +1,8 @@
-# 番剧
+# アニメ
+[Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A1_(%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BD%9C%E5%93%81)), [Anime - Wikipedia](https://en.wikipedia.org/wiki/Anime), [日本动画 - 维基百科](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB)
+
+[日本のアニメーション - Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+
 ## Web sites
 - [Bangumi 番组计划](#bangumi-番组计划)
 - [ACG Secrets.HK](https://acgsecrets.hk/)
