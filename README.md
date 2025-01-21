@@ -109,6 +109,9 @@
 - [Exercise](Humans/Sport/Exercise/README.md)
 
 ### [Brain](Humans/Brain/README.md)
+- [Cognitive Biases](Humans/Brain/Biases/README.md)
+  - [Logical Fallacy](Humans/Brain/Biases/Logical.md)
+  - [Prospect Theory](Humans/Brain/Biases/Prospect.md)
 - [Learning](Humans/Brain/Learning/README.md)
   - [Anki](Humans/Brain/Learning/Anki/README.md)
     - [Decks](Humans/Brain/Learning/Anki/Decks/README.md)
