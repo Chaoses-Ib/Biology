@@ -158,6 +158,7 @@
   - [Puzzle Games](Humans/Games/Genres/Puzzle/README.md)
   - [Horror](Humans/Games/Genres/Horror/README.md)
   - [Card](Humans/Games/Genres/Card/README.md)
+- [Distribution](Humans/Games/Distribution.md)
 
 ### [Clothing](Humans/Clothing/README.md)
 - [Legwear](Humans/Clothing/Legwear/README.md)
