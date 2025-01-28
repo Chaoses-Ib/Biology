@@ -20,6 +20,7 @@ Clients:
   - 2024-08-16
   - Android: [Epic Games for Android](https://store.epicgames.com/en-US/mobile/android)
     - Support WSA
+    - Not support Android 7
 
     [下载Epic Games 0.5.0针对于Android | Uptodown.com](https://fortnite-installer.cn.uptodown.com/android/download)
 

@@ -154,6 +154,7 @@
     - [Life Simulation Games (SLG)](Humans/Games/Genres/Simulation/Life.md)
     - [Gal Games](Humans/Games/Genres/Simulation/Gal/README.md)
   - [Strategy Games](Humans/Games/Genres/Strategy/README.md)
+    - [Tower Defense](Humans/Games/Genres/Strategy/Tower%20Defense.md)
   - [Maze Games](Humans/Games/Genres/Maze/README.md)
   - [Puzzle Games](Humans/Games/Genres/Puzzle/README.md)
   - [Horror](Humans/Games/Genres/Horror/README.md)
