@@ -81,6 +81,7 @@ Android:
     - Formerly `【新版】JLPT (N1～N5) 日语 中文 带语音 Japanese 日本語`
     - 释义、关联词、例句（高亮）、语音、词典链接
     - 例句高亮显示规则：单词为黄色，关联词为绿色，反义词为蓝色
+    - 音频高级设置：默认正面、背面自动播放单词发音，可通过 `playback: 'default'` 改为背面自动播放单词和例句发音
   - shimatsu3046
     - [日语红宝书N5（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/452778955)
     - [日语红宝书N4（匹配官方教材发音、带例句）](https://ankiweb.net/shared/info/958705781)
