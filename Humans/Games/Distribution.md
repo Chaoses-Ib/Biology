@@ -27,3 +27,7 @@ Clients:
   - No Library
 
 ## GOG
+
+## Web
+- [YouTube Playables](https://www.youtube.com/playables)
+- [4399小游戏](https://www.4399.com/)
