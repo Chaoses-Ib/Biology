@@ -9,6 +9,9 @@
 - [slither.io](https://slither.io/) ([Wikipedia](https://en.wikipedia.org/wiki/Slither.io))
   - [Snake.io](https://snake.io/)
   - My Talking Tom 2
+- [Paper.io 2](https://www.youtube.com/playables/UgkxJuWC7NuXgP2-g3P5wL-wQilDuI81Plyd)
+  - 与原版撞到其它蛇才会死亡不同，蛇的未封闭部分——脖子被撞到就会死亡
+  - 沿边缘绕一圈可以覆盖整个地图 
 
 ## Death Stranding
 [Wikipedia](https://en.wikipedia.org/wiki/Death_Stranding)
