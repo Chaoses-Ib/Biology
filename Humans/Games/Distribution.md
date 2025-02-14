@@ -2,6 +2,8 @@
 [Digital distribution of video games - Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution_of_video_games)
 
 ## Steam
+Windows:
+- `scoop install games/steam` (not `version/steam`)
 
 ## Epic Games Store
 [Wikipedia](https://en.wikipedia.org/wiki/Epic_Games_Store)
@@ -10,6 +12,7 @@
 
 Clients:
 - Windows
+  - `scoop bucket add games; scoop install epic-games-launcher`
 
 - Web
   - No Library, but [Transactions](https://www.epicgames.com/account/transactions?lang=en-US)
@@ -27,7 +30,17 @@ Clients:
   - No Library
 
 ## GOG
+Windows:
+- `scoop install goggalaxy`
+
+## Windows
+- Microsoft Store
+
+Scoop:
+- [scoop-games: Scoop bucket for open source/freeware games and game-related tools](https://github.com/Calinou/scoop-games)
+  - `scoop bucket add games`
 
 ## Web
 - [YouTube Playables](https://www.youtube.com/playables)
+  - Only US, not JP?
 - [4399小游戏](https://www.4399.com/)
