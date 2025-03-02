@@ -12,3 +12,13 @@
     - Support Android 7
 
     [Bloons TD 6 v46.3 MOD APK (God Mode, Unlock All, Free Upgrade) Download](https://liteapks.com/bloons-td-6.html)
+
+## Plants vs. Zombies
+[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+
+Web:
+- PVZ JS版
+  - [pvz.wan1234.com](https://pvz.wan1234.com/)
+    - 调速
+  - [pvz.heheda.top](https://pvz.heheda.top/)
+  - [pvz.ee](https://pvz.ee/)
