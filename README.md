@@ -113,6 +113,7 @@
   - [Logical Fallacy](Humans/Brain/Biases/Logical.md)
   - [Prospect Theory](Humans/Brain/Biases/Prospect.md)
 - [Learning](Humans/Brain/Learning/README.md)
+  - [Spaced Repetition](Humans/Brain/Learning/Repetition.md)
   - [Anki](Humans/Brain/Learning/Anki/README.md)
     - [Decks](Humans/Brain/Learning/Anki/Decks/README.md)
   - [Duolingo](Humans/Brain/Learning/Duolingo.md)
