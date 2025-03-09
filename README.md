@@ -117,6 +117,7 @@
   - [Anki](Humans/Brain/Learning/Anki/README.md)
     - [Decks](Humans/Brain/Learning/Anki/Decks/README.md)
   - [Duolingo](Humans/Brain/Learning/Duolingo.md)
+- [Multitasking](Humans/Brain/Multitasking.md)
 - [Sleep](Humans/Brain/Sleep/README.md)
 
 ### [Sex](Humans/Sex/README.md)
