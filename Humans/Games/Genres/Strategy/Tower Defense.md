@@ -19,9 +19,24 @@
 - [杂交版](https://pvzgame.app/)
 
   [\[遊戲分享\] 3/4 持續更新植物大戰殭屍 雜交版v3.3 版本下載 (plants vs zombies hybrid v3.3 download) - questionlu的創作 - 巴哈姆特](https://home.gamer.com.tw/artwork.php?sn=5950231)
+
 - [射击版](https://pvzgame.app/shoot)
+  - Windows
+  - Android
+
 - [融合版](https://pvzgame.app/merge)
+  - Windows
+  - Android
+    - https://r2.182666.xyz/pvz2.3.1.apk
+    - [下载安卓版Plants vs Zombies Fusion Edition (模组菜单) 破解应用](https://playmods.net/zh/game/plants-vs-zombies-fusion-edition-mod/com.LanPiaoPiao.PlantsVsZombiesRH2)
+    - [Download PvZ Fusion Mod for Mobile Apk & PC (Official)](https://pvzfusion.net/)
+      - 不需要实名认证
+    - 游戏本身支持 Android 7，但国内版的实名认证不支持，会一直 `网络请求错误`？
+
+  [PVZ Fusion v2.3.1 Download \[OFFICIAL\] » Android APK & PC](https://pvzfusion.pro/)
+
 - 胆小菇之梦
+
 - 嫁接版
 
 [植物大战僵尸杂交版等超火的版本汇总（附说明和下载链接）\_植物大战僵尸链接-CSDN博客](https://blog.csdn.net/boyZhenGui/article/details/140464507)
