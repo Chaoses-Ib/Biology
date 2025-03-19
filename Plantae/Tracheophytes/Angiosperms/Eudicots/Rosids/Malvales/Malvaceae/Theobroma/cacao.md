@@ -9,6 +9,9 @@
 ## Cooking
 [Chocolate is big business in China | The Straits Times](https://www.straitstimes.com/lifestyle/food/chocolate-is-big-business-in-china)
 
+Brands:
+- [Nestlé: Good food, Good life](https://www.nestle.com/)
+
 [2022年有什么好吃的牛奶巧克力推荐？什么奶巧性价比高，都有哪些牛奶巧克力品牌？ 怎么挑选和保存？](https://www.zhihu.com/tardis/zm/art/369375940?source_id=1003)
 
 - KDV 紫皮糖
@@ -26,3 +29,8 @@
   - 代可可脂
   - 吃下去过段时间后肚子可能不舒服。
 - 蜡笔小新：27元/kg
+
+### Chocolate-covered wafer bars
+- Nestle
+  - Kit Kat ([Wikipedia](https://en.wikipedia.org/wiki/Kit_Kat))
+  - [脆脆鲨](https://www.nestle.com.cn/brands/confectionery-a/confectionery_01): 39元/kg
