@@ -44,6 +44,15 @@ China:
 - 正大
   - 34元/kg
 
+### Chicken jerky
+[Jerky - Wikipedia](https://en.wikipedia.org/wiki/Jerky)
+
+- 憨豆熊: 32元/kg
+  - 沙嗲味
+  - 香辣味
+
+[牛肉干英语怎么说？可千万别说是dry beef！ - 知乎](https://zhuanlan.zhihu.com/p/362660351)
+
 ### Popcorn chicken
 [Wikipedia](https://en.wikipedia.org/wiki/Popcorn_chicken)
 
