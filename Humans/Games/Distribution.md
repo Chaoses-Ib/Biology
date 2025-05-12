@@ -41,6 +41,23 @@ Scoop:
   - `scoop bucket add games`
 
 ## Web
+English:
+- [CrazyGames](https://www.crazygames.com/)
+  - PWA
+- [Online Games.io](https://www.onlinegames.io/)
+  - No account
+- [Playhop.com](https://playhop.com/)
+  - PWA
+- [Poki](https://poki.com/)
+  - No account
+  - PWA
 - [YouTube Playables](https://www.youtube.com/playables)
   - Only US, not JP?
+  - PWA
+- [Games from MSN](https://www.msn.com/en-us/play)
+  - PWA
+
+Chinese:
 - [4399小游戏](https://www.4399.com/)
+
+## [→Roblox](../Games/Genres/MMO/Roblox.md)
