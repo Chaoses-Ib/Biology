@@ -1,6 +1,9 @@
 # Distribution
 [Digital distribution of video games - Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution_of_video_games)
 
+## Non-official
+- [RuTracker.org](https://rutracker.org/forum/index.php)
+
 ## Steam
 Windows:
 - `scoop install games/steam` (not `version/steam`)
