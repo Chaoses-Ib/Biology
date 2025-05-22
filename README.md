@@ -175,6 +175,7 @@
 ### [Clothing](Humans/Clothing/README.md)
 - [Legwear](Humans/Clothing/Legwear/README.md)
   - [Stockings](Humans/Clothing/Legwear/Stockings.md)
+- [Shoes](Humans/Clothing/Shoes/README.md)
 
 ### [Societies](Humans/Societies/README.md)
 - [Politics](Humans/Societies/Politics/README.md)
