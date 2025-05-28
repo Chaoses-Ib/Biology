@@ -134,3 +134,22 @@ Mods:
 [【情報】最佳化模組整合文【1.19 / 1.18.2 / 1.16.5】全新記憶體流失修復模組！6/12 更新 @Minecraft 我的世界（當個創世神） 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=18673&snA=188995&to=18)
 
 [【情報】【1.17.1】模組整合文 連接材質、動態光源 應有盡有！9/26 小更新 @Minecraft 我的世界（當個創世神） 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=18673&snA=191506)
+
+## Commands
+[Commands -- Minecraft Wiki](https://minecraft.fandom.com/wiki/Commands)
+
+[Argument types -- Minecraft Wiki](https://minecraft.fandom.com/wiki/Argument_types)
+- [Coordinates -- Minecraft Wiki](https://minecraft.fandom.com/wiki/Coordinates#Commands)
+  - > pressing `F3` can also replace the crosshair with a display of these three directions: +X in red, +Y in green, +Z in blue (eastward, upward, and southward, respectively).
+  - Under feet: `~ ~-1 ~`
+  - Local coordinate looks nice, but hard to use due to not orthogonal
+- [Resource location -- Minecraft Wiki](https://minecraft.fandom.com/wiki/Resource_location)
+
+  [How to give certain types of wood through commands. : r/MinecraftCommands](https://www.reddit.com/r/MinecraftCommands/comments/gcsdm9/how_to_give_certain_types_of_wood_through_commands/)
+
+Commands:
+- [/fill](https://minecraft.fandom.com/wiki/Commands/fill)
+  - `/fill ~-3 ~-3 ~-3 ~3 ~-1 ~3 water`
+  - `/fill ~ ~ ~ ^1 ^ ^10 water`
+
+  [How do i use the /fill command? : r/Minecraft](https://www.reddit.com/r/Minecraft/comments/gtrj4m/how_do_i_use_the_fill_command/)
