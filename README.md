@@ -163,6 +163,8 @@
     - [Gal Games](Humans/Games/Genres/Simulation/Gal/README.md)
   - [Strategy Games](Humans/Games/Genres/Strategy/README.md)
     - [Tower Defense](Humans/Games/Genres/Strategy/Tower%20Defense.md)
+  - [Sandbox](Humans/Games/Genres/Sandbox/README.md)
+    - [Minecraft](Humans/Games/Genres/Sandbox/Minecraft/README.md)
   - [Massively Multiplayer Online Games (MMO)](Humans/Games/Genres/MMO/README.md)
     - [Roblox](Humans/Games/Genres/MMO/Roblox.md)
   - [Maze Games](Humans/Games/Genres/Maze/README.md)
