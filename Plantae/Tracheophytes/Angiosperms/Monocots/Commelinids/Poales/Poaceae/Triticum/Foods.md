@@ -98,3 +98,19 @@ Frozen pizza:
   口感类似更硬实的好丽友。
 
   [我再推荐一个康吉牌（KONTI）的三明治饼干，味道好极了\_风闻](https://user.guancha.cn/main/content?id=706602&s=fwzwyzzwzbt)
+
+## Cones
+> usually made of a wafer similar in texture to a waffle
+
+- Cones
+  - 小尾巴
+- Cream cones
+  - 尤选: 14g/0.66元
+- Ice cream cones ([Wikipedia](https://en.wikipedia.org/wiki/Ice_cream_cone))
+- Chocolate cones
+  - 阿华田 (Ovaltine): 19g/1.1~1.3元
+    - China only?
+
+    [Get Ovaltine Chocolate Cool Crisp Cones Malted Cocoa flavor 76g Delivered | Weee! Asian Market](https://www.sayweee.com/en/product/Ovaltine-Chocolate-Cool-Crisp-Cones-Malted-Cocoa-flavor-76g/2218998)
+  - 真巧: 10g/1元
+  - 比比赞
