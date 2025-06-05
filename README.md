@@ -41,8 +41,9 @@
             - Pooideae
               - Avena
                 - [A. sativa (Oat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Pooideae/Avena/sativa.md)
-            - Triticum (Wheat)
-              - [T. aestivum (Common Wheat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/aestivum.md)
+            - [Triticum (Wheat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/README.md)
+              - [T. aestivum (Common Wheat)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/aestivum/README.md)
+              - [Wheat Foods](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/Foods.md)
         - Zingiberales
           - Musaceae
             - [Musa (Banana Plants)](Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Zingiberales/Musaceae/Musa/README.md)
