@@ -58,8 +58,9 @@
   - Aves
     - Galliformes
       - Phasianidae
-        - Gallus
+        - [Gallus (Junglefowl)](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/README.md)
           - [G. domesticus (Chicken)](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/domesticus.md)
+          - [Chicken Eggs](Animalia/Chordata/Aves/Galliformes/Phasianidae/Gallus/Eggs.md)
   - Mammalia
     - Artiodactyla
       - Bovidae
