@@ -94,12 +94,35 @@ Frozen pizza:
     - 番茄肉酱: 16.9 元/kg
     - 黑椒牛肉: 21.3 元/kg
   - 干面 90g、酱 180g
-- 西奥图: 23 元/kg
+  - 需要冷冻保存
+  - 炒制加热、隔水加热、微波加热
+    - 炒制加热需要加油
+    - 隔水加热味道一般
+    - 微波加热需要先解冻
+- 小牛凯西: 230g/4元（17.4 元/kg）
+  - 干面 110g、酱 120g
+  - 番茄、黑椒
+- 西奥图: 150g/3.6元（24 元/kg）
   - 酱料
     - 黑胡椒味
     - 番茄味：不太好吃，有一股类似蔬菜干的怪味
   - 不会粘连
-- 小牛凯西
+
+### Fusilli
+[Wikipedia](https://en.wikipedia.org/wiki/Fusilli)
+
+fusilli, rotini, Spirals, The Bolt Pasta
+
+> Fusilli are a variety of pasta from southern Italy, with a helical (corkscrew) or helicoidal shape.
+
+Brands:
+- 小牛凯西: 208g/5.2元（25 元/kg）
+  - 干面 110g、酱 95g
+  - 番茄肉酱
+- 西奥图: 130g/2.8元（22 元/kg）
+
+冲泡:
+- 雷洽
 
 ## Biscuits
 [Wikipedia](https://en.wikipedia.org/wiki/Biscuit)
