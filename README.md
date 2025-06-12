@@ -92,6 +92,7 @@
   - [Pharyngitis](Humans/Physiology/Respiratory/Pharyngitis.md)
   - [Pneumonia](Humans/Physiology/Respiratory/Pneumonia/README.md)
     - [Atypical pneumonia](Humans/Physiology/Respiratory/Pneumonia/Atypical.md)
+  - [Drugs](Humans/Physiology/Respiratory/Drugs.md)
 - [Digestive System](Humans/Physiology/Digestive/README.md)
   - [Teeth](Humans/Physiology/Digestive/Teeth/README.md)
   - [Food](Humans/Physiology/Digestive/Food/)
@@ -112,6 +113,7 @@
   - [Nonsteroidal Anti-inflammatory Drugs](Humans/Physiology/Endocrine/Nonsteroidal%20Anti-inflammatory%20Drugs.md)
 
 ### [Medicine](Humans/Medicine/README.md)
+- [Drugs](Humans/Medicine/Drugs/README.md)
 - [Health Insurance](Humans/Medicine/Insurance/README.md)
 
 ### [Sport](Humans/Sport/README.md)
