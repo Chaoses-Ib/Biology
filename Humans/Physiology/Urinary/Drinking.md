@@ -68,6 +68,7 @@ Your fluid intake is probably adequate if[^mayoclinic]:
   - 橙汁
   - 葡萄汁
   - 荔枝
+  - 小怪兽味: 酸甜
 
   虽然好喝，但有点涩，感觉上不太解渴。
 

@@ -25,6 +25,10 @@
           - Malvaceae
             - Theobroma
               - [T. cacao](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Malvales/Malvaceae/Theobroma/cacao.md)
+        - Vitales
+          - Vitaceae
+            - Vitoideae
+              - [Vitis](Plantae/Tracheophytes/Angiosperms/Eudicots/Rosids/Vitales/Vitaceae/Vitoideae/Vitis/README.md)
     - Monocots
       - Alismatales
         - Araceae
