@@ -35,11 +35,16 @@
 
 - [Nyaa](https://nyaa.si/)
 - [動漫花園資源網](https://share.dmhy.org/)
+  - 番剧关键词搜索
 - [爱恋动漫](https://kisssub.org/)
+  - 番剧关键词搜索
 
 - [蜜柑计划](https://mikanani.me/)
+  - 按 (番剧,字幕组) 分类
 - [MioBT](http://www.miobt.com/)
+  - 番剧关键词搜索
 - [萌番组](https://bangumi.moe/)
+  - 番剧多关键词搜索
 
 - ~~[NC-Raws](https://nc.raws.dev/0:/)~~ (NC-raws, 神楽坂 まひろ, 【推しの子】, GJ.Y, Up to 21°C)
   - [Nyaa Pantsu](https://ouo.si/)
