@@ -142,9 +142,10 @@
 ### [Sex](Humans/Sex/README.md)
 - [Child Pornography](Humans/Sex/Child.md)
 
-### Languages
+### [Languages](Humans/Languages/README.md)
 - [日本語](Humans/Languages/日本語/README.md)
-  - [音韻](Humans/Languages/日本語/音韻.md)
+  - [発音](Humans/Languages/日本語/発音/README.md)
+    - [音韻](Humans/Languages/日本語/発音/音韻.md)
   - [表記](Humans/Languages/日本語/表記/README.md)
   - [約物](Humans/Languages/日本語/約物.md)
 
