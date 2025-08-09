@@ -27,6 +27,14 @@
 
       [Is prism launcher cracked safe? : r/MinecraftMod](https://www.reddit.com/r/MinecraftMod/comments/14cs1f7/is_prism_launcher_cracked_safe/)
     - Cannot create an instance with a mod and its compatible MC version and loader
+    - API
+      - CurseForge: `$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm`
+
+        Otherwise some mods may show "No version is available!".
+
+        [Some modpacks dont have a version available in the new instance menu - Issue #517 - PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher/issues/517)
+
+        [Rustic Waters II (Curseforge) "No version is available!" - Issue #2031 - PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher/issues/2031)
 
 - Modrinth App ([GitHub](https://github.com/modrinth/code))
   - Rust, Tauri
