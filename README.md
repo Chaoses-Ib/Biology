@@ -160,6 +160,8 @@
 ### [Cultures](Humans/Cultures/README.md)
 - [Education](Humans/Cultures/Education/README.md)
 - [二次元](Humans/Cultures/二次元/README.md)
+  - [ライトノベル](Humans/Cultures/二次元/ライトノベル/README.md)
+  - [漫画](Humans/Cultures/二次元/漫画/README.md)
   - [アニメ](Humans/Cultures/二次元/アニメ/README.md)
     - [韓国アニメ](Humans/Cultures/二次元/アニメ/韓国.md)
     - [Resources](Humans/Cultures/二次元/アニメ/Resources.md)
