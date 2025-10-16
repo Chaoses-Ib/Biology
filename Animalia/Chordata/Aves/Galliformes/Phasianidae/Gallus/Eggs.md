@@ -10,7 +10,7 @@
 香芋注心：
 - 良品铺子
 
-### [→Egg tarts](../../../../../../Humans/Physiology/Digestive/Food/Cooking/Ovens/Pies/Tarts.md#egg-tarts-蛋挞)
+### [→Egg tarts](../../../../../../Plantae/Tracheophytes/Angiosperms/Monocots/Commelinids/Poales/Poaceae/Triticum/Foods/Pies/Tarts.md#egg-tarts-蛋挞)
 
 ### 卤蛋
 [Wikipedia](https://en.wikipedia.org/wiki/Soy_egg), [卤蛋 - 维基百科](https://zh.wikipedia.org/zh-cn/%E6%BB%B7%E6%B0%B4%E8%9B%8B)

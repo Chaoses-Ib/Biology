@@ -3,6 +3,8 @@
 
 [Lists of foods - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_foods)
 
+[Category:Types of food - Wikipedia](https://en.wikipedia.org/wiki/Category:Types_of_food)
+
 代餐：
 - 若饭
 
