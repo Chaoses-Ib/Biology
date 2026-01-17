@@ -97,6 +97,8 @@
   - [Eye](Humans/Physiology/Nervous/Eye/README.md)
     - [Retina](Humans/Physiology/Nervous/Eye/Retina.md)
     - [Floaters](Humans/Physiology/Nervous/Eye/Floaters.md)
+  - Ear
+    - [Pharyngotympanic Tube](Humans/Physiology/Nervous/Ear/Tube.typ)
 - [Integumentary System](Humans/Physiology/Integumentary/README.md)
   - [Hair](Humans/Physiology/Integumentary/Hair/README.md)
 - Immune System
