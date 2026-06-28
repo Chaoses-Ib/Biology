@@ -76,6 +76,11 @@
       - Suidae
         - Sus
           - [S. domesticus (Pig)](Animalia/Chordata/Mammalia/Artiodactyla/Suidae/Sus/domesticus.md)
+    - Placentalia
+      - Carnivora
+        - Felidae
+          - Felis
+            - [F. catus (Cat)](Animalia/Chordata/Mammalia/Placentalia/Carnivora/Felidae/Felis/catus.typ)
     - Primates
       - Haplorhini
         - Simiiformes
