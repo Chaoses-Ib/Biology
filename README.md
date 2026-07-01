@@ -60,6 +60,13 @@
 
 ## Animalia
 - [Meat](Animalia/Meat.md)
+- Arthropoda
+  - Pancrustacea
+    - Insecta
+      - Aparaglossata
+        - Panorpida
+          - Antliophora
+            - [Siphonaptera (Flea)](Animalia/Arthropoda/Pancrustacea/Insecta/Aparaglossata/Panorpida/Antliophora/Siphonaptera/README.typ)
 - Chordata
   - Aves
     - Galliformes
