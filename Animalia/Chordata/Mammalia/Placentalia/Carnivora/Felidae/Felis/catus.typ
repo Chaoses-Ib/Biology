@@ -101,3 +101,37 @@ Products:
 
   贵的不如吃人食或者直接吃肉，便宜的又不放心。
   和婴幼儿用品一样的低信任困局。
+
+= Cat health
+#a-badge[https://en.wikipedia.org/wiki/Cat_health]
+
+== Feline vaccination
+#a-badge[https://en.wikipedia.org/wiki/Feline_vaccination]
+#a-badge[https://cats.fandom.com/wiki/Feline_Vaccination]
+
+#q[
+The practice of recommending and giving vaccines on a fixed schedule with annual boosters has been widely discarded.
+Current recommendations are based on the philosophy of vaccinating each cat no more frequently than necessary.
+These recommendations take into account considerations for
+- the efficacy and duration of immunity (DOI) of available vaccines;
+- environmental risks and likelihood of exposure;
+- the specific needs and risks associated with age and overall health status of different cats and cat populations;
+- and socioeconomic limitations.
+]
+
+- 通常需要 2\~8℃ 保存。
+
+#a[养猫新手求解答 NGA玩家社区][https://bbs.nga.cn/read.php?tid=46710774]
+
+#a[猫三联+狂犬疫苗：科学养猫的"安全底线"还是"智商税"？][https://m.baidu.com/bh/m/detail/ar_9502572604982487736]
+
+#a[要给小猫咪打针了，猫三联是干什么的？每年都要打吗？ - 知乎][https://www.zhihu.com/question/665033440]
+
+= As pets
+#a[Cats, the 'Purrfect' Pet - Ark-Valley Humane Society][https://www.ark-valley.org/cats-the-purrfect-pet/]
+
+#a[怎么突破想养猫却受阻碍的阶段？ - V2EX][https://v2ex.com/t/687161]
+
+#a[养猫小白，求指教 - V2EX][https://v2ex.com/t/1223899]
+
+#a[问下养猫狗的老哥们，家里消杀卫生怎么做的 - V2EX][https://v2ex.com/t/888647]
